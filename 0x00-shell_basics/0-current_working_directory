@@ -1,1 +1,2 @@
-this_is_the_shell_basic_folder
+#!/bin/bash
+pwd
